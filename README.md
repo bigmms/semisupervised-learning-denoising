@@ -2,7 +2,7 @@
 ## *Highly Accurate Image Reconstruction for Multimodal Noise Suppression Using Semisupervised Learning on Big Data*
 Jia-Li Yin, Bo-Hao Chen, and Ying Li
 
-## Requirement
+## Requirement:
 > * MATLAB R2017a
 
 ## Usage:
@@ -10,7 +10,7 @@ Jia-Li Yin, Bo-Hao Chen, and Ying Li
 runDenoising
 ```
 
-## Site:
+## Citation:
     @ARTICLE{yin2018denosing, 
     author={J. Yin and B. Chen and Y. Li}, 
     journal={IEEE Transactions on Multimedia}, 
