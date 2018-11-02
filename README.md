@@ -1,7 +1,11 @@
 # Semisupervised-Learning-based-Noise-Suppression
 MATLAB re-implementation of "Highly Accurate Image Reconstruction for Multimodal Noise Suppression Using Semisupervised Learning on Big Data"
 
-# Site:
+## MATLAB Re-implementation
+## *Highly Accurate Image Reconstruction for Multimodal Noise Suppression Using Semisupervised Learning on Big Data*
+Jia-Li Yin, Bo-Hao Chen, and Ying Li
+
+## Site:
 @ARTICLE{yin2018denosing, 
 author={J. Yin and B. Chen and Y. Li}, 
 journal={IEEE Transactions on Multimedia}, 
